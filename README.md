@@ -14,8 +14,8 @@ The workflow is broken down into the following steps:
 - [Installation](#installation)
 - [Usage](#usage)
   - [1. Research Paper Evaluation ([paper_evaluation.py](./paper_evaluation.py))
-  - [2. Entity & Relationship Extraction (Code 2)](#2-entity--relationship-extraction-code-2)
-  - [3. Knowledge Graph Visualization (Code 3)](#3-knowledge-graph-visualization-code-3)
+  - [2. Entity & Relationship Extraction ([entity_extraction.py](./entity_extraction.py))
+  - [3. Knowledge Graph Visualization ([KG_visualization.py](./KG_visualization.py))
 - [Contributing](#contributing)
 - [License](#license)
 
