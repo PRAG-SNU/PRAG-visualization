@@ -13,7 +13,7 @@ The workflow is broken down into the following steps:
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [1. Research Paper Evaluation (Code 1)](#1-research-paper-evaluation-code-1)
+  - [1. Research Paper Evaluation ([paper_evaluation.py](./paper_evaluation.py))
   - [2. Entity & Relationship Extraction (Code 2)](#2-entity--relationship-extraction-code-2)
   - [3. Knowledge Graph Visualization (Code 3)](#3-knowledge-graph-visualization-code-3)
 - [Contributing](#contributing)
