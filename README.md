@@ -27,7 +27,7 @@ Uses libraries like **PyPDF2** or **PyMuPDF (fitz)** to automatically extract te
 ### LLM-Based Scientific Text Evaluation
 Uses OpenAI’s **ChatCompletion API** to evaluate unstructured scientific text (from LLM outputs or research papers) based on two main factors: **scientific depth** and **domain coverage**. This helps researchers quickly see how detailed or wide-ranging a text is, so they can compare the academic level of different discussion sections, hypotheses, or entire papers.
 
-![Example](./images/Depth_domain.png)
+![Research text evaluation](./Depth_domain.png)
 
 ### Entity & Relationship Extraction
 Finds the key ideas (**entities**) and how they connect (**relationships**) in large amounts of text from LLM outputs and research papers. By automatically identifying important concepts and the ways they link together, this process reduces information overload for researchers and keeps only the most useful details for visualization.
