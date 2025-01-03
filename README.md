@@ -32,6 +32,8 @@ Uses OpenAI’s **ChatCompletion API** to evaluate unstructured scientific text 
 ### Entity & Relationship Extraction
 Finds the key ideas (**entities**) and how they connect (**relationships**) in large amounts of text from LLM outputs and research papers. By automatically identifying important concepts and the ways they link together, this process reduces information overload for researchers and keeps only the most useful details for visualization.
 
+![Parsing to Knowlegde Graph construction](./Parsing_KG.png)
+
 ### Spatial/Temporal Classification
 Photosynthesis research covers many scales—from quick molecular interactions to changes that happen over centuries, and from tiny structures to large environmental systems. By mapping the extracted entities (and sometimes relationships) onto different **time** (immediate, short-term, long-term, etc.) and **space** (molecular, cellular, ecosystem, etc.) scales, researchers can quickly tell the “level” at which a paper or LLM discussion focuses.
 
